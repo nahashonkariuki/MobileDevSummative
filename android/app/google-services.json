@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453685098667",
+    "project_id": "petronallapractice",
+    "storage_bucket": "petronallapractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453685098667:android:52c5daf59437716283dfee",
+        "android_client_info": {
+          "package_name": "com.example.instructions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453685098667-msodquadvkpr1pbrra8ucq572vgfecke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_9QkAC5gEpLtkgAAWSrAidqcChqmxjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453685098667-msodquadvkpr1pbrra8ucq572vgfecke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
